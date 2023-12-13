@@ -1,1 +1,1 @@
-Two Virtual machines in a subnet with the Windows server 2019 datacenter- gen 1 images and B1 size configuration. The virtual machines should have SQL servers installed in them. These VMs should have only private IP addresses
+Two Virtual machines in another subnet with the Ubuntu images, B1 size configuration and should be accessed through a load balancer. Install the Apache web server in each of these VMs to display a simple site representing the online store. Public IP should be enabled here.
