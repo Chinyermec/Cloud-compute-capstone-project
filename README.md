@@ -1,0 +1,1 @@
+Two Virtual machines in a subnet with the Windows server 2019 datacenter- gen 1 images and B1 size configuration. The virtual machines should have SQL servers installed in them. These VMs should have only private IP addresses
